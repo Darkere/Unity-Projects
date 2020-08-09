@@ -1,0 +1,1 @@
+VectorGoal was a project inspired by a mobile game I played at the time with very good Vector graphics. The game railroaded the player to such an extend that I started creating a new one trying to copy the graphics... and failing completely. 
